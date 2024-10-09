@@ -1,17 +1,33 @@
-## Hi there 👋
+# Hey there! I'm Abdurauf 👋
 
-<!--
-**abduhakimovabdurauf/abduhakimovabdurauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+💡 I'm a frontend developer with a passion for creating intuitive and dynamic user experiences.  
+🛠 Currently, I'm working on enhancing my skills and contributing to exciting projects.  
+🌱 I’m focused on learning more about Vue.js and modern web development practices.  
+✍️ In my free time, I enjoy building various applications and exploring new technologies.  
+💬 Feel free to reach out for collaboration, discussions, or just to connect!  
+✉️ You can email me at fordev@mail.ru. I'll respond as soon as I can.
 
-Here are some ideas to get you started:
-![Uploading 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a61766173637269707426636f6c6f723d323533323435.svg…]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Night Coding 🌙
+
+## 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Bootstrap, Vue.js
+- **Tools:** Visual Studio Code, Git, GitHub, Markdown
+
+---
+
+## ⚙️ GitHub Analytics
+![Abdurauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+- ✉️ Email: fordev9095@mail.ru
+- 📱 Telegram: t.me/cw_dev
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and let's connect! 😄
