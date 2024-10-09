@@ -4,6 +4,7 @@
 **abduhakimovabdurauf/abduhakimovabdurauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Uploading 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a61766173637269707426636f6c6f723d323533323435.svg…]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
