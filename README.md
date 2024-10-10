@@ -1,6 +1,6 @@
 ![Banner](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Abduhakimov%20Abdurauf.png)
 
-![Wave](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/wave.gif)# Hey there! I'm Abdurauf
+# Hey there! I'm Abdurauf
 
 
 ## 👨🏻‍💻 About Me
@@ -13,8 +13,6 @@
 
 ---
 
-## Night Coding 🌙
-
 ## 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,8 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
+![Gif](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Night-Coding.gif)
 
 ---
 
