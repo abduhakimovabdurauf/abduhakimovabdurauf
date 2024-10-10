@@ -1,7 +1,7 @@
 ![Banner](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Abduhakimov%20Abdurauf.png)
 
-# Hey there! I'm Abdurauf
-![Wave](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/wave.gif)
+![Wave](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/wave.gif)# Hey there! I'm Abdurauf
+
 
 ## 👨🏻‍💻 About Me
 💡 I'm a frontend developer with a passion for creating intuitive and dynamic user experiences.  
