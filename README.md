@@ -31,7 +31,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/abduhakimovabdurauf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
