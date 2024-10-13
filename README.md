@@ -1,8 +1,11 @@
 ![Banner](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Abduhakimov%20Abdurauf.png)
 
+
 <img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdurauf</h2>
 
+
 ## 👨🏻‍💻 &nbsp;About Me
+
 
 💡 &nbsp;I'm a frontend developer with a passion for creating intuitive and dynamic user experiences.  
 🛠 &nbsp;Currently, I'm working on enhancing my skills and contributing to exciting projects.  
@@ -11,9 +14,12 @@
 💬 &nbsp;Feel free to reach out for collaboration, discussions, or just to connect!  
 ✉️ &nbsp;You can email me at fordev9095@mail.ru. I'll respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/Night-Coding.gif" align="right"/>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/abduhakimovabdurauf/abduhakimovabdurauf/master/assets/Night-Coding.gif" align="right"/>
+
 
 ## 🛠 Tech Stack
+
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=253245)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=253245)&nbsp;
@@ -27,6 +33,7 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/abduhakimovabdurauf">
