@@ -45,6 +45,10 @@
 </div>
 
 
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true)](https://github.com/abduhakimovabdurauf)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default)](https://github.com/abduhakimovabdurauf)
+
+
 ### 📫 How to reach me
 - ✉️ Email: fordev9095@mail.ru
 - 📱 Telegram: t.me/cw_dev
