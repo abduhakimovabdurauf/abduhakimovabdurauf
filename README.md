@@ -28,11 +28,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)\
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&color=253245)
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true)](https://github.com/abduhakimovabdurauf)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default)](https://github.com/abduhakimovabdurauf)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/abduhakimovabdurauf)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=dark)](https://github.com/abduhakimovabdurauf)
 
 
 ### 📫 How to reach me
