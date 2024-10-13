@@ -31,7 +31,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
+<div align="center" style="align-items:flex-start;justify-content:flex-start">
   <a href="https://github.com/abduhakimovabdurauf">
     <img height=400 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
   </a>
