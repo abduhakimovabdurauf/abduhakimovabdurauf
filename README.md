@@ -31,12 +31,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/abduhakimovabdurauf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
-</a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/abduhakimovabdurauf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
+  </a>
+  <a href="https://github.com/abduhakimovabdurauf">
+    <img width="120em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
+  </a>
+</div>
+
 
 ### 📫 How to reach me
 - ✉️ Email: fordev9095@mail.ru
