@@ -35,13 +35,13 @@
   <div style="background-color: #253245; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
     <h3 style="text-align: center;">GitHub Stats</h3>
     <a href="https://github.com/abduhakimovabdurauf">
-      <img width="650" height="220" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
+      <img width="700" height="220" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
     </a>
   </div>
   <div style="background-color: #253245; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
     <h3 style="text-align: center;">Top Languages</h3>
     <a href="https://github.com/abduhakimovabdurauf">
-      <img width="340" height="220" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
+      <img width="700" height="220" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
     </a>
   </div>
 </div>
