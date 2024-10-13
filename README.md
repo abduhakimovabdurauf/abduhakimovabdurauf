@@ -33,10 +33,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/abduhakimovabdurauf">
-    <img style="width: 650px !improtant;height: 250px !important;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
+    <img style="width: 550px !improtant;height: 200px !important;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
   </a>
   <a href="https://github.com/abduhakimovabdurauf">
-    <img style="width: 350px !improtant;height: 250px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
+    <img style="width: 350px !improtant;height: 200px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
   </a>
 </div>
 
