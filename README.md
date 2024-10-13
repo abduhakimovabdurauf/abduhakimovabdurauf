@@ -4,7 +4,7 @@
 <img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdurauf</h2>
 
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 
 💡 &nbsp;I'm a frontend developer with a passion for creating intuitive and dynamic user experiences.  
@@ -18,12 +18,12 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/abduhakimovabdurauf/abduhakimovabdurauf/master/assets/Night-Coding.gif" align="right"/>
 
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=253245)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=253245)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=253245)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&color=253245)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=253245)&nbsp;\
