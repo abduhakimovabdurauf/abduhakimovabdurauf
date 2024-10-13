@@ -1,42 +1,40 @@
 ![Banner](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Abduhakimov%20Abdurauf.png)
 
-# Hey there! I'm Abdurauf
+<img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Vladislav</h2>
 
+## 👨🏻‍💻 &nbsp;About Me
 
-## 👨🏻‍💻 About Me
-💡 I'm a frontend developer with a passion for creating intuitive and dynamic user experiences.  
-🛠 Currently, I'm working on enhancing my skills and contributing to exciting projects.  
-🌱 I’m focused on learning more about Vue.js and modern web development practices.  
-✍️ In my free time, I enjoy building various applications and exploring new technologies.  
-💬 Feel free to reach out for collaboration, discussions, or just to connect!  
-✉️ You can email me at fordev9095@mail.ru. I'll respond as soon as I can.
+💡 &nbsp;I'm a frontend developer with a passion for creating intuitive and dynamic user experiences.  
+🛠 &nbsp;Currently, I'm working on enhancing my skills and contributing to exciting projects.  
+🌱 &nbsp;I’m focused on learning more about Vue.js and modern web development practices.  
+✍️ &nbsp;In my free time, I enjoy building various applications and exploring new technologies.  
+💬 &nbsp;Feel free to reach out for collaboration, discussions, or just to connect!  
+✉️ &nbsp;You can email me at fordev9095@mail.ru. I'll respond as soon as I can.
 
----
+<img alt="Night Coding" src="https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=253245)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=253245)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=253245)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&color=253245)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=253245)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=253245)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Gif](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Night-Coding.gif)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&color=253245)
 
----
 
-## ⚙️ GitHub Analytics
-![Abdurauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&theme=radical)
+### ⚙️ &nbsp;GitHub Analytics
 
----
+<p align="center">
+<a href="https://github.com/abduhakimovabdurauf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
+</a>
+</p>
 
-## 📫 How to reach me
+### 📫 How to reach me
 - ✉️ Email: fordev9095@mail.ru
 - 📱 Telegram: t.me/cw_dev
-
----
-
-Thanks for visiting my profile! Feel free to check out my repositories and let's connect! 😄
