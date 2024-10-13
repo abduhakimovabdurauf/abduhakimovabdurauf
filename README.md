@@ -31,15 +31,20 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center" style="align-items:flex-start;justify-content:flex-start">
-  <a href="https://github.com/abduhakimovabdurauf">
-    <img height=210 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
-  </a>
-  <a href="https://github.com/abduhakimovabdurauf">
-    <img height=210 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
-  </a>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
+  <div style="background-color: #253245; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
+    <h3 style="text-align: center;">GitHub Stats</h3>
+    <a href="https://github.com/abduhakimovabdurauf">
+      <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
+    </a>
+  </div>
+  <div style="background-color: #253245; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
+    <h3 style="text-align: center;">Top Languages</h3>
+    <a href="https://github.com/abduhakimovabdurauf">
+      <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
+    </a>
+  </div>
 </div>
-
 
 ### 📫 How to reach me
 - ✉️ Email: fordev9095@mail.ru
