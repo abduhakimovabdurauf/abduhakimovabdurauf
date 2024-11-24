@@ -20,9 +20,10 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=253245)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=253245)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=253245)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4&color=253245)
+![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify&logoColor=1867C0&color=253245)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;\
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6&color=253245)\
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&color=253245)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs&logoColor=00DC82&color=253245)
@@ -30,11 +31,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=253245)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&color=253245)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/abduhakimovabdurauf)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abduhakimovabdurauf&layout=compact&langs_count=8&theme=dark)](https://github.com/abduhakimovabdurauf)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
