@@ -9,7 +9,7 @@
 🌱 &nbsp;I’m focused on learning more about Vue.js and modern web development practices.  
 ✍️ &nbsp;In my free time, I enjoy building various applications and exploring new technologies.  
 💬 &nbsp;Feel free to reach out for collaboration, discussions, or just to connect!  
-✉️ &nbsp;You can email me at fordev9095@mail.ru. I'll respond as soon as I can.
+✉️ &nbsp;You can email me at abduhakimovabdurauf402@gmail.com. I'll respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/abduhakimovabdurauf/abduhakimovabdurauf/master/assets/Night-Coding.gif" align="right"/>
