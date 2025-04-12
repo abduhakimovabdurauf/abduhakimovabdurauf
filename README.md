@@ -42,5 +42,5 @@
 </p>
 
 ### 📫 How to reach me
-- ✉️ Email: fordev9095@mail.ru
+- ✉️ Email: abduhakimovabdurauf402@gmail.com
 - 📱 Telegram: t.me/cw_dev
