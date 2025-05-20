@@ -43,4 +43,4 @@
 
 ### 📫 How to reach me
 - ✉️ Email: abduhakimovabdurauf402@gmail.com
-- 📱 Telegram: t.me/cw_dev
+- 📱 Telegram: t.me/abduhakimov_abdurauf
