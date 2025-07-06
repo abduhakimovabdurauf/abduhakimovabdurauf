@@ -34,11 +34,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/abduhakimovabdurauf/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abduhakimovabdurauf" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abduhakimovabdurauf&theme=dark" />
 </a>
 <a href="https://github.com/abduhakimovabdurauf/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduhakimovabdurauf&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduhakimovabdurauf&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
+
 ### 📫 How to reach me
 - ✉️ Email: abduhakimovabdurauf402@gmail.com
 - 📱 Telegram: t.me/abduhakimov_abdurauf
