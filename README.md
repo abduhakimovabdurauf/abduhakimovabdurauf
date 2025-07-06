@@ -1,4 +1,3 @@
-![Banner](https://github.com/abduhakimovabdurauf/abduhakimovabdurauf/blob/main/assets/Abdurauf.png)
 
 <img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdurauf</h2>
 
@@ -34,14 +33,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/abduhakimovabdurauf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abduhakimovabdurauf&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhakimovabdurauf&hide_progress=true)
+<a href="https://github.com/abduhakimovabdurauf/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abduhakimovabdurauf" />
 </a>
-</p>
-
+<a href="https://github.com/abduhakimovabdurauf/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduhakimovabdurauf&layout=compact&langs_count=8&card_width=320" />
+</a>
 ### 📫 How to reach me
 - ✉️ Email: abduhakimovabdurauf402@gmail.com
 - 📱 Telegram: t.me/abduhakimov_abdurauf
